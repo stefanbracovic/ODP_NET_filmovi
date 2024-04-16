@@ -1,0 +1,9 @@
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\bin\Debug\ODP_NET_filmovi.exe.config
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\bin\Debug\ODP_NET_filmovi.exe
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\bin\Debug\ODP_NET_filmovi.pdb
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\obj\Debug\ODP_NET_filmovi.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\obj\Debug\ODP_NET_filmovi.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\obj\Debug\ODP_NET_filmovi.csproj.CopyComplete
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\obj\Debug\ODP_NET_filmovi.exe
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ODP_NET_filmovi\ODP_NET_filmovi\obj\Debug\ODP_NET_filmovi.pdb
